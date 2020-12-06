@@ -13,20 +13,23 @@ Retiring Employees:
 - Based on our analysis of retiring employees born between 1952 to 1955, there are 90,398 employees in that range. This is compared with a total of 240,124 active employees, meaning 37% of our employees are close to retirement and highlights the seriousness of the issue at our company.
 
 Screenshot of total active employees:
+
 <img src="Resources/total_active_employees.png">
 
 Screenshot of total retiring employees:
+
 <img src="Resources/retiring_employees.png">
 
 - The other observation is that we see most of our retiring employees occupy a senior position i.e. senior engineer, senior staff, technique leader and manager, where 68.8% (67,172 employees) of potential retirees are from a senior position. This highlights another issue where we will have to replace a talent drain at those positions which are usually harder to fill.
 
 Screenshot of retiring employee by titles:
+
 <img src="Resources/retiring_titles.png">
 
 Mentorship Program:
 -From our selection of employees born in 1965 (aged around 55), we see that there are 1,549 employees that are potentially capable of being mentors under this definition.
 
-Screen shot of total employees eligible to be mentors: \
+Screen shot of total employees eligible to be mentors:
 
 <img src="Resources/mentors.png">
 
@@ -34,7 +37,7 @@ Screen shot of total employees eligible to be mentors: \
 
 Screen shot of mentor candidates' breakdown:
 
-<img src="Resources/mentors_breakdown.png">
+<img src="Resources/mentor_breakdown.png">
 
 ## Summary: 
 
