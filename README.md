@@ -26,7 +26,7 @@ Screenshot of retiring employee by titles:
 Mentorship Program:
 -From our selection of employees born in 1965 (aged around 55), we see that there are 1,549 employees that are potentially capable of being mentors under this definition.
 
-Screen shot of total employees eligible to be mentors:
+Screen shot of total employees eligible to be mentors: \
 
 <img src="Resources/mentors.png">
 
